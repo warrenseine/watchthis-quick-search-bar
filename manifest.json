@@ -12,5 +12,6 @@
       "js": ["jquery.js", "search.js"],
       "css": ["search.css"]
     }
-   ]
+  ],
+  "update_url": "https://github.com/warrenseine/watchthis-quick-search-bar/raw/master/updates.xml"
 }
